@@ -36,7 +36,7 @@ pyfluidsynth = "^1.2.5"
 numpy = "^1.26.0"
 vamp = "^1.1.0"
 urllib3 = "2.5.0"
-spleeter = { path = "/Users/badjessab/Desktop/startups/music/musicdojo/packages/spleeter/dist/spleeter-2.4.2-py3-none-any.whl" }
+spleeter = "2.4.2"
 mir_eval = "^0.6"
 tensorflow-io-gcs-filesystem = "0.37.1"
 tensorflow = "2.15.1"
